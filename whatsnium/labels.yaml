@@ -1,0 +1,15 @@
+search_input:
+  - "Search input textbox"        # English
+  - "Caixa de texto de pesquisa"  # Portuguese
+  - "Cuadro de texto de búsqueda" # Spanish
+  - "Rechercher"                  # French
+  - "Sucheingabefeld"             # German
+  - "テキストボックスを検索"          # Japanese
+
+message_input:
+  - "Type a message"
+  - "Digite uma mensagem"
+  - "Escribe un mensaje"
+  - "Tapez un message"
+  - "Nachricht eingeben"
+  - "メッセージを入力"
